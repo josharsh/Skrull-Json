@@ -1,9 +1,9 @@
 # Skrull-JSON
-![Skrull Icon](./skrull-icon.ico)
+![Skrull Icon]("https://raw.githubusercontent.com/josharsh/Skrull-Json/main/skrull-icon.ico")
 
 
 Brings shapeshifting abilities to your JSON data.
-![Shapeshifting JSON](json-json.png)
+![Shapeshifting JSON]("https://github.com/josharsh/Skrull-Json/blob/1bfcce4964f67383ae382cfb3aefc1bc4c5ba046/json-json.png")
 
 `Skrull` is a lightweight, efficient JavaScript utility for transforming JSON structures based on a given mapping. It provides a simple way to reshape JSON data
 
