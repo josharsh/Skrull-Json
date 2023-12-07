@@ -1,6 +1,6 @@
 {
   "name": "skrull-json",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Brings shapeshifting abilities to JSON. Converts json schemas using configuration mapping",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,15 @@
   "type": "module",
   "keywords": [
     "json",
+    "josharsh",
     "transformation",
-    "json",
-    "javascript"
+    "jsonify",
+    "javascript",
+    "data",
+    "json-json",
+    "skrull-json",
+    "integrations",
+    "tools"
   ],
   "author": "josharsh",
   "license": "ISC"
